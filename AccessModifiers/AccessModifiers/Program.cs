@@ -75,3 +75,15 @@ class privateAccess
     privateA a = new privateA();
     int y = a.pA; //This will throw an error since x is has private access
 }
+
+
+
+sealed class A
+{
+    //some code here
+}
+
+class B : A //This is not allowed because class A is sealed
+{
+    ///some code here
+}
