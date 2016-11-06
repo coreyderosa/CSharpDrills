@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\DerivedClass\DerivedClass\bin\Debug\DerivedClass.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\DerivedClass\DerivedClass\bin\Debug\DerivedClass.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\DerivedClass\DerivedClass\bin\Debug\DerivedClass.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\DerivedClass\DerivedClass\obj\Debug\DerivedClass.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\DerivedClass\DerivedClass\obj\Debug\DerivedClass.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\DerivedClass\DerivedClass\obj\Debug\DerivedClass.pdb
