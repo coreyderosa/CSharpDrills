@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\TryCatchFinally1\TryCatchFinally1\bin\Debug\TryCatchFinally1.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\TryCatchFinally1\TryCatchFinally1\bin\Debug\TryCatchFinally1.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\TryCatchFinally1\TryCatchFinally1\bin\Debug\TryCatchFinally1.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\TryCatchFinally1\TryCatchFinally1\obj\Debug\TryCatchFinally1.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\TryCatchFinally1\TryCatchFinally1\obj\Debug\TryCatchFinally1.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\TryCatchFinally1\TryCatchFinally1\obj\Debug\TryCatchFinally1.pdb
