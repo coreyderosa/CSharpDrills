@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\SerializationBLOB1\SerializationBLOB1\bin\Debug\SerializationBLOB1.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\SerializationBLOB1\SerializationBLOB1\bin\Debug\SerializationBLOB1.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\SerializationBLOB1\SerializationBLOB1\bin\Debug\SerializationBLOB1.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\SerializationBLOB1\SerializationBLOB1\obj\Debug\SerializationBLOB1.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\SerializationBLOB1\SerializationBLOB1\obj\Debug\SerializationBLOB1.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\SerializationBLOB1\SerializationBLOB1\obj\Debug\SerializationBLOB1.pdb
