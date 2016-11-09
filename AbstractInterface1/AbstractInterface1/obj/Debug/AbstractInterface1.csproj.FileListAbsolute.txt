@@ -1,0 +1,2 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\AbstractInterface1\AbstractInterface1\bin\Debug\AbstractInterface1.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\AbstractInterface1\AbstractInterface1\obj\Debug\AbstractInterface1.csprojResolveAssemblyReference.cache
