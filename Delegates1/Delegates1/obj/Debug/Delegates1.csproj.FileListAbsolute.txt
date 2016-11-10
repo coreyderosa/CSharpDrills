@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\Delegates1\Delegates1\bin\Debug\Delegates1.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\Delegates1\Delegates1\bin\Debug\Delegates1.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\Delegates1\Delegates1\bin\Debug\Delegates1.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\Delegates1\Delegates1\obj\Debug\Delegates1.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\Delegates1\Delegates1\obj\Debug\Delegates1.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\Delegates1\Delegates1\obj\Debug\Delegates1.pdb
