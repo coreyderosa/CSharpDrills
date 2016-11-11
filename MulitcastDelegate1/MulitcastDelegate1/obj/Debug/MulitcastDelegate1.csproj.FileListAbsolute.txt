@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\MulitcastDelegate1\MulitcastDelegate1\bin\Debug\MulitcastDelegate1.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\MulitcastDelegate1\MulitcastDelegate1\bin\Debug\MulitcastDelegate1.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\MulitcastDelegate1\MulitcastDelegate1\bin\Debug\MulitcastDelegate1.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\MulitcastDelegate1\MulitcastDelegate1\obj\Debug\MulitcastDelegate1.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\MulitcastDelegate1\MulitcastDelegate1\obj\Debug\MulitcastDelegate1.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\MulitcastDelegate1\MulitcastDelegate1\obj\Debug\MulitcastDelegate1.pdb
