@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\Struct1\Struct1\bin\Debug\Struct1.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\Struct1\Struct1\bin\Debug\Struct1.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\Struct1\Struct1\bin\Debug\Struct1.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\Struct1\Struct1\obj\Debug\Struct1.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\Struct1\Struct1\obj\Debug\Struct1.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpDrills\Struct1\Struct1\obj\Debug\Struct1.pdb
